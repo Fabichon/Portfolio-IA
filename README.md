@@ -30,3 +30,25 @@ Le projet se conclut par une ouverture sur les techniques modernes de fine-tunin
 
 ---
 *Projet réalisé dans le cadre du Master 1 Mathématiques Appliquées au Calcul et à l'IA (MACIA).*
+
+---
+
+# Deep Pricing : Approximation de Black-Scholes par Réseaux de Neurones
+
+Ce second projet explore l'intersection entre la **Finance Quantitative** et le **Deep Learning**. L'objectif est de remplacer le calcul analytique traditionnel de la formule de Black-Scholes par une approximation neuronale ultra-rapide.
+
+## 🚀 Points Clés du Projet
+
+- **Architecture** : Réseau de neurones Feed-Forward (PyTorch) avec 2 couches cachées et activations ReLU.
+- **Expertise Quant** : Analyse fine de l'erreur par **Moneyness** ($S/K$), permettant de valider la précision du modèle sur les options *At-the-Money*, *In-the-Money* et *Out-of-the-Money*.
+- **Performance** : Benchmark comparatif entre l'inférence neuronale et le calcul analytique, démontrant un gain de vitesse significatif pour le pricing de masse.
+- **Analyse des Résidus** : Étude de la normalité des erreurs et diagnostic de biais pour garantir la fiabilité financière du modèle.
+
+## 🛠️ Stack Technique
+
+- **Langage** : Python
+- **Bibliothèques** : PyTorch, Scikit-Learn, Pandas, Matplotlib, Seaborn
+- **Concepts Finance** : Modèle de Black-Scholes, Options Call européennes, Volatilité implicite, Taux sans risque.
+
+---
+*Projet réalisé dans le cadre du Master 1 Mathématiques Appliquées au Calcul et à l'IA (MACIA).*
