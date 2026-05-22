@@ -2,6 +2,14 @@
 aerospace_model/
 aerospace_model_final/
 
+# Outils internes et logs de design
+docs/superpowers/
+scripts/enhance_bs_notebook.py
+scripts/patch_wikipedia*
+scripts/modify_notebook.py
+scripts/debug_wikipedia.py
+scripts/task*.py
+
 # Python
 __pycache__/
 *.py[cod]
