@@ -49,6 +49,3 @@ Ce second projet explore l'intersection entre la **Finance Quantitative** et le 
 - **Langage** : Python
 - **Bibliothèques** : PyTorch, Scikit-Learn, Pandas, Matplotlib, Seaborn
 - **Concepts Finance** : Modèle de Black-Scholes, Options Call européennes, Volatilité implicite, Taux sans risque.
-
----
-*Projet réalisé dans le cadre du Master 1 Mathématiques Appliquées au Calcul et à l'IA (MACIA).*
