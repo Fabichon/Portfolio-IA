@@ -1,0 +1,14 @@
+# Modèles et checkpoints (trop lourds pour GitHub)
+aerospace_model/
+aerospace_model_final/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
