@@ -1,4 +1,4 @@
-# 🤖 Portfolio IA & Data Science - Fab DSIP
+# 🤖 Portfolio IA & Data Science 
 
 Bienvenue dans mon portfolio technique. Ce dépôt regroupe des projets avancés illustrant mes compétences en **Machine Learning**, **Finance Quantitative** et **Natural Language Processing (NLP)**.
 
@@ -44,6 +44,4 @@ Chaque projet est conçu avec une approche rigoureuse : de la théorie mathémat
 
 ## 🎓 Parcours Académique
 Projets réalisés dans le cadre du **Master 1 Mathématiques Appliquées au Calcul et à l'IA (MACIA)**. Ils illustrent une capacité à traduire des concepts théoriques complexes en solutions logicielles concrètes et performantes.
-
----
-*Fab DSIP - [Contact/LinkedIn]*
+[Contact/LinkedIn]*
