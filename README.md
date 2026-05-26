@@ -40,8 +40,3 @@ Chaque projet est conçu avec une approche rigoureuse : de la théorie mathémat
 | **Visualisation** | Matplotlib, Seaborn |
 | **Théorie** | Mathématiques Financières, NLP (BPE, CLM), Optimisation (Adam) |
 
----
-
-## 🎓 Parcours Académique
-Projets réalisés dans le cadre du **Master 1 Mathématiques Appliquées au Calcul et à l'IA (MACIA)**. Ils illustrent une capacité à traduire des concepts théoriques complexes en solutions logicielles concrètes et performantes.
-[Contact/LinkedIn]*
